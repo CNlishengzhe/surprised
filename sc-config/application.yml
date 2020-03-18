@@ -1,3 +1,5 @@
+faa = faa version 21
+democonfigclient.message=hello spring io
 spring:
   application:
   name: config-server
